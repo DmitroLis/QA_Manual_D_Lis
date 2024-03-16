@@ -1,0 +1,13 @@
+Hi eweryone !
+<<<<<<< HEAD
+<<<<<<< HEAD
+version2
+=======
+ Start work with Git
+>>>>>>> f380b950897801c862e5c1ba1ef9b39f00f33da6
+=======
+ Start work with Git
+=======
+version2
+>>>>>>> Dmitro.Maksimenko.gitpractice
+>>>>>>> 153d3941d55b188e5ce23add8e350cb61a6fe6e4
